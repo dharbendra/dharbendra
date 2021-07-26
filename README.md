@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dharbendra
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on js 
+- 🌱 I’m currently learning HTML CSS
+- 💞️ I’m looking to collaborate on HTML CSS
 - 📫 How to reach me m.me/dharbendrayadv
 
 
