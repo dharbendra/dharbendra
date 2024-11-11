@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @dharbendra
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning HTML CSS
-- 💞️ I’m looking to collaborate on HTML CSS
-- 📫 How to reach me m.me/dharbendrayadv
+- this github profile is not in use.
+- 📫 How to reach me linkedin.com/in/dharbendra
 
 
 <!---
